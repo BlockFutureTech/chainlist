@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Kortho Mainnet",
+        "chain": "KTO",
+        "icon": "kto",
+        "rpc": [
+            "https://kortho-chain.com"
+        ],
+        "features": [
+            {
+                "name": "EIP155"
+            },
+            {
+                "name": "EIP1559"
+            }
+        ],
+        "faucets": [],
+        "nativeCurrency": {
+            "name": "Kortho",
+            "symbol": "KTO",
+            "decimals": 18
+        },
+        "infoURL": "https://www.kortho.io",
+        "shortName": "kto",
+        "chainId": 2559,
+        "networkId": 2559,
+        "slip44": 60,
+        "ens": {
+            "registry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
+        },
+        "explorers": [
+            {
+                "name": "ktoscan",
+                "url": "https://www.kortho.io",
+                "standard": "EIP3091"
+            }
+        ]
+    }
+]
